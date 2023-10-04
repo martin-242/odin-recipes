@@ -1,0 +1,1 @@
+This is a basic recipes website made for Odin's project tutorial practice.
